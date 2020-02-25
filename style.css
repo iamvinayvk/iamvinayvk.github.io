@@ -29,6 +29,9 @@ h1 {
 body{
   background-image:radial-gradient(circle,blue,cyan);
   color: rgba(8,84,5,1);
+  border:black;
+  border-width: thick;
+  border-style: dotted;
   }
   h2{
     font-family: 'Lacquer';
