@@ -27,7 +27,8 @@ h1 {
   background-color:#ddd; 
 }
 body{
-  background-image:radial-gradient(circle,blue,cyan);
+ background: url(https://images.pexels.com/photos/220182/pexels-photo-220182.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+ background-repeat: repeat;
   color: rgba(8,84,5,1);
   border:black;
   border-width: thick;
@@ -40,5 +41,6 @@ body{
   @media only screen and (max-width: 768px){
     body{
       width:100%;
+      background: url(https://images.pexels.com/photos/925743/pexels-photo-925743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     }
   }
