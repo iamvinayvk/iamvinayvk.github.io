@@ -28,4 +28,5 @@ h1 {
 }
 body{
   background-image:radial-gradient(circle,blue,cyan);
+  color: rgba(8,84,5,0.5);
   }
