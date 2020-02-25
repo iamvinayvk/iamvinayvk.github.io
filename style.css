@@ -31,5 +31,6 @@ body{
   color: rgba(8,84,5,0.5);
   }
   h2{
-    font-family: 'Lacquer', ;
+    font-family: 'Lacquer';
+    text-shadow: 4px 4px 4px #aaa;
   }
