@@ -41,7 +41,8 @@ body{
       width:100%;
       
       background: url(https://images.pexels.com/photos/925743/pexels-photo-925743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-    background-size: cover;
+    background-size:contain;
+    background-repeat: no-repeat;
     }
 
   }
