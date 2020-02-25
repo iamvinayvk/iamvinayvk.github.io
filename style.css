@@ -27,7 +27,7 @@ h1 {
   background-color:#ddd; 
 }
 body{
- background: url(https://images.pexels.com/photos/220182/pexels-photo-220182.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+ background: url(https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
  background-repeat: no-repeat;
  background-size: cover;
   
@@ -36,13 +36,17 @@ body{
     font-family: 'Lacquer';
     text-shadow: 4px 4px 4px #aaa;
   }
-  @media only screen and (max-width: 768px){
+  @media only screen and (max-width: 100%){
     body{
       width:100%;
       
-      background: url(https://images.pexels.com/photos/925743/pexels-photo-925743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
-    background-size:contain;
+      background: url(https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size:cover;
     background-repeat: no-repeat;
     }
 
+
   }
+   #qualification{
+      border: 4px dotted black;
+    }
